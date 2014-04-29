@@ -1,16 +1,14 @@
-SistemasOperacionais
+sistemas_operacionais
 ====================
 
-UNIVERSIDADE FEDERAL DA PARAÍBA
-CENTRO DE CIÊNCIA APLICADA E EDUCAÇÃO
-DEPARTAMENTO DE CIÊNCIAS EXATAS
-CURSO: SISTEMAS DE INFORMAÇÃO
+Universidade Federal da Paraíba
+  
+DISCIPLINA: Sistemas Operacionais
+  
+Códigos desenvolvidos na disciplina Sistemas Operacionais
+  
+  * THREADS
+  * SEMÁFOROS
+  * MONITOR
 
-DISCIPLINA: SISTEMAS OPERACIONAIS
-
-CÓDIGOS DESENVOLVIDOS NA DISCIPLINA SISTEMAS OPERACIONAIS
-
-THREADS
-SEMAPHORES
-MONITOR
-...
+https://sites.google.com/a/dce.ufpb.br/analiz/disciplinas/2012-1/sistemas-operacionais
